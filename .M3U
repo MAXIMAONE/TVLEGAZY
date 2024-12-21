@@ -1,6 +1,5 @@
 #EXTM3U
 
-#EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_13"
 #EXTINF:-1 tvg-id="cinecanal.mx" tvg-name="P| Cinecanal  HD" tvg-logo="https://i.imgur.com/IFoWfq4.png" group-title="Peliculas",P| Cinecanal  HD
 http://gzytv.vip:8880/654329/rjgAbmEB7c/204
 #EXTINF:-1 tvg-id="cinecanal.mx" tvg-name="P| Cinecanal FHD" tvg-logo="https://i.imgur.com/IFoWfq4.png" group-title="Peliculas",P| Cinecanal FHD
@@ -40,8 +39,6 @@ http://gzytv.vip:8880/654329/rjgAbmEB7c/1937
 http://gzytv.vip:8880/654329/rjgAbmEB7c/1323
 #EXTINF:-1 tvg-id="FOX SPORTS PREMIUM" tvg-name="DP| FOX Sports Premium MX  HD" tvg-logo="https://i.imgur.com/FI8osXa.png" group-title="Deportes Premium",DP| FOX Sports Premium MX  HD
 http://gzytv.vip:8880/654329/rjgAbmEB7c/1483
-#EXTINF:-1 tvg-id="tudn.mx" tvg-name="D| TUDN MX" tvg-logo="https://i.imgur.com/FbT8oqo.png" group-title="Deportes",D| TUDN MX
-http://gzytv.vip:8880/654329/rjgAbmEB7c/1760
 #EXTINF:-1 tvg-id="tudn.mx" tvg-name="D| TUDN MX  HD" tvg-logo="https://i.imgur.com/FbT8oqo.png" group-title="Deportes",D| TUDN MX  HD
 http://gzytv.vip:8880/654329/rjgAbmEB7c/1759
 #EXTINF:-1 tvg-id="univisiondeportes.us" tvg-name="D| TUDN USA" tvg-logo="https://i.imgur.com/FbT8oqo.png" group-title="Deportes",D| TUDN USA
@@ -55,3 +52,5 @@ http://gzytv.vip:8880/654329/rjgAbmEB7c/1097893
 #EXTINF:-1 tvg-id="tooncast.mx" tvg-name="I| Tooncast  HQ" tvg-logo="https://i.imgur.com/S9uC9Vi.png" group-title="Infantil / Kids",I| Tooncast  HQ
 http://gzytv.vip:8880/654329/rjgAbmEB7c/1097896
 
+
+LIST
