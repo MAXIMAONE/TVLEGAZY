@@ -1,56 +1,54 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="cinecanal.mx" tvg-name="P| Cinecanal  HD" tvg-logo="https://i.imgur.com/IFoWfq4.png" group-title="Peliculas",P| Cinecanal  HD
+
+#EXTINF:-1 tvg-id="cinecanal.mx" tvg-name="Cinecanal  HD" tvg-logo="https://i.imgur.com/IFoWfq4.png" group-title="Peliculas",P| Cinecanal  HD
 http://gzytv.vip:8880/654329/rjgAbmEB7c/204
-#EXTINF:-1 tvg-id="cinecanal.mx" tvg-name="P| Cinecanal FHD" tvg-logo="https://i.imgur.com/IFoWfq4.png" group-title="Peliculas",P| Cinecanal FHD
+#EXTINF:-1 tvg-id="cinecanal.mx" tvg-name="Cinecanal FHD" tvg-logo="https://i.imgur.com/IFoWfq4.png" group-title="Peliculas",P| Cinecanal FHD
 http://gzytv.vip:8880/654329/rjgAbmEB7c/2503
-#EXTINF:-1 tvg-id="REDBULL" tvg-logo="https://pbs.twimg.com/card_img/1840011503992492032/QnoUSI3b?format=png&name=360x360"
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?xtreamiptv.m3u8#EXTINF:-1 tvg-id="" tvg-name="C| History   HD" tvg-logo="https://i.imgur.com/lhuH7zF.png" group-title="Cultura",C| History   HD
-http://gzytv.vip:8880/654329/rjgAbmEB7c/1097983
-#EXTINF:-1 tvg-id="" tvg-name="C| History  FHD" tvg-logo="https://i.imgur.com/lhuH7zF.png" group-title="Cultura",C| History  FHD
+#EXTINF:-1 tvg-id="" tvg-name=" History  FHD" tvg-logo="https://i.imgur.com/lhuH7zF.png" group-title="Cultura",C| History  FHD
 http://gzytv.vip:8880/654329/rjgAbmEB7c/1098220
-#EXTINF:-1 tvg-id="" tvg-name="C| Film & Arts" tvg-logo="https://i.imgur.com/mXDfidu.png" group-title="Cultura",C| Film & Arts
+#EXTINF:-1 tvg-id="" tvg-name="Film & Arts" tvg-logo="https://i.imgur.com/mXDfidu.png" group-title="Cultura",C| Film & Arts
 http://gzytv.vip:8880/654329/rjgAbmEB7c/1098073
-#EXTINF:-1 tvg-id="filmandarts.mx" tvg-name="C| Film & Arts  HD" tvg-logo="https://i.imgur.com/mXDfidu.png" group-title="Cultura",C| Film & Arts  HD
+#EXTINF:-1 tvg-id="filmandarts.mx" tvg-name=" Film & Arts  HD" tvg-logo="https://i.imgur.com/mXDfidu.png" group-title="Cultura",C| Film & Arts  HD
 http://gzytv.vip:8880/654329/rjgAbmEB7c/1097971
-#EXTINF:-1 tvg-id="8500" tvg-name="C| Nat Geo Mundo" tvg-logo="https://i.imgur.com/H4cLXLx.png" group-title="Cultura",C| Nat Geo Mundo
+#EXTINF:-1 tvg-id="8500" tvg-name=" Nat Geo Mundo" tvg-logo="https://i.imgur.com/H4cLXLx.png" group-title="Cultura",C| Nat Geo Mundo
 http://gzytv.vip:8880/654329/rjgAbmEB7c/1066640
-#EXTINF:-1 tvg-id="" tvg-name="C| Nat Geo Wild" tvg-logo="https://images.mi.tv/channels/co_nat-geo-wild-hd_m.png" group-title="Cultura",C| Nat Geo Wild
+#EXTINF:-1 tvg-id="" tvg-name="Nat Geo Wild" tvg-logo="https://images.mi.tv/channels/co_nat-geo-wild-hd_m.png" group-title="Cultura",C| Nat Geo Wild
 http://gzytv.vip:8880/654329/rjgAbmEB7c/1097997
-#EXTINF:-1 tvg-id="" tvg-name="C| National Geographic  HD" tvg-logo="https://i.imgur.com/aPb4NEj.png" group-title="Cultura",C| National Geographic  HD
+#EXTINF:-1 tvg-id="" tvg-name="National Geographic  HD" tvg-logo="https://i.imgur.com/aPb4NEj.png" group-title="Cultura",C| National Geographic  HD
 http://gzytv.vip:8880/654329/rjgAbmEB7c/1097995
-#EXTINF:-1 tvg-id="" tvg-name="C| National Geographic FHD" tvg-logo="https://i.imgur.com/aPb4NEj.png" group-title="Cultura",C| National Geographic FHD
+#EXTINF:-1 tvg-id="" tvg-name="National Geographic FHD" tvg-logo="https://i.imgur.com/aPb4NEj.png" group-title="Cultura",C| National Geographic FHD
 http://gzytv.vip:8880/654329/rjgAbmEB7c/1098225
-#EXTINF:-1 tvg-id="clarosportscolombia.co" tvg-name="D| Claro Sports  HD" tvg-logo="https://i.imgur.com/xhqCt1d.png" group-title="Deportes",D| Claro Sports  HD
+#EXTINF:-1 tvg-id="clarosportscolombia.co" tvg-name="Claro Sports  HD" tvg-logo="https://i.imgur.com/xhqCt1d.png" group-title="Deportes",D| Claro Sports  HD
 http://gzytv.vip:8880/654329/rjgAbmEB7c/1660
-#EXTINF:-1 tvg-id="espn.mx" tvg-name="D| ESPN 1 MX  HD" tvg-logo="https://i.imgur.com/r5kftbo.png" group-title="Deportes",D| ESPN 1 MX  HD
+#EXTINF:-1 tvg-id="espn.mx" tvg-name="ESPN 1 MX  HD" tvg-logo="https://i.imgur.com/r5kftbo.png" group-title="Deportes",D| ESPN 1 MX  HD
 http://gzytv.vip:8880/654329/rjgAbmEB7c/1994
-#EXTINF:-1 tvg-id="espn.mx" tvg-name="D| ESPN 1 MX FHD" tvg-logo="https://i.imgur.com/r5kftbo.png" group-title="Deportes",D| ESPN 1 MX FHD
+#EXTINF:-1 tvg-id="espn.mx" tvg-name="ESPN 1 MX FHD" tvg-logo="https://i.imgur.com/r5kftbo.png" group-title="Deportes",D| ESPN 1 MX FHD
 http://gzytv.vip:8880/654329/rjgAbmEB7c/1992
-#EXTINF:-1 tvg-id="FOX SPORTS" tvg-name="D| FOX Sports 1 CL  HD" tvg-logo="https://i.imgur.com/SLrPvXC.png" group-title="Deportes",D| FOX Sports 1 CL  HD
+#EXTINF:-1 tvg-id="FOX SPORTS" tvg-name="FOX Sports 1 CL  HD" tvg-logo="https://i.imgur.com/SLrPvXC.png" group-title="Deportes",D| FOX Sports 1 CL  HD
 http://gzytv.vip:8880/654329/rjgAbmEB7c/1996
-#EXTINF:-1 tvg-id="foxsports.mx" tvg-name="D| FOX Sports 1 MX" tvg-logo="https://i.imgur.com/SLrPvXC.png" group-title="Deportes",D| FOX Sports 1 MX
+#EXTINF:-1 tvg-id="foxsports.mx" tvg-name="FOX Sports 1 MX" tvg-logo="https://i.imgur.com/SLrPvXC.png" group-title="Deportes",D| FOX Sports 1 MX
 http://gzytv.vip:8880/654329/rjgAbmEB7c/1753
-#EXTINF:-1 tvg-id="foxsports1.us" tvg-name="S| FOX Sports 1 (FS1)  HD" tvg-logo="https://i.imgur.com/SLrPvXC.png" group-title="Sports",S| FOX Sports 1 (FS1)  HD
+#EXTINF:-1 tvg-id="foxsports1.us" tvg-name=" FOX Sports 1 (FS1)  HD" tvg-logo="https://i.imgur.com/SLrPvXC.png" group-title="Sports",S| FOX Sports 1 (FS1)  HD
 http://gzytv.vip:8880/654329/rjgAbmEB7c/1685
-#EXTINF:-1 tvg-id="foxsports2.us" tvg-name="S| FOX Sports 2 (FS2)  HD" tvg-logo="https://i.ibb.co/87kLRhk/fox-2.png" group-title="Sports",S| FOX Sports 2 (FS2)  HD
+#EXTINF:-1 tvg-id="foxsports2.us" tvg-name=" FOX Sports 2 (FS2)  HD" tvg-logo="https://i.ibb.co/87kLRhk/fox-2.png" group-title="Sports",S| FOX Sports 2 (FS2)  HD
 http://gzytv.vip:8880/654329/rjgAbmEB7c/1937
-#EXTINF:-1 tvg-id="FOX SPORTS PREMIUM" tvg-name="DP| FOX Sports Premium MX" tvg-logo="https://i.imgur.com/FI8osXa.png" group-title="Deportes Premium",DP| FOX Sports Premium MX
+#EXTINF:-1 tvg-id="FOX SPORTS PREMIUM" tvg-name="FOX Sports Premium MX" tvg-logo="https://i.imgur.com/FI8osXa.png" group-title="Deportes Premium",DP| FOX Sports Premium MX
 http://gzytv.vip:8880/654329/rjgAbmEB7c/1323
-#EXTINF:-1 tvg-id="FOX SPORTS PREMIUM" tvg-name="DP| FOX Sports Premium MX  HD" tvg-logo="https://i.imgur.com/FI8osXa.png" group-title="Deportes Premium",DP| FOX Sports Premium MX  HD
+#EXTINF:-1 tvg-id="FOX SPORTS PREMIUM" tvg-name="FOX Sports Premium MX  HD" tvg-logo="https://i.imgur.com/FI8osXa.png" group-title="Deportes Premium",DP| FOX Sports Premium MX  HD
 http://gzytv.vip:8880/654329/rjgAbmEB7c/1483
 #EXTINF:-1 tvg-id="tudn.mx" tvg-name="D| TUDN MX  HD" tvg-logo="https://i.imgur.com/FbT8oqo.png" group-title="Deportes",D| TUDN MX  HD
 http://gzytv.vip:8880/654329/rjgAbmEB7c/1759
-#EXTINF:-1 tvg-id="univisiondeportes.us" tvg-name="D| TUDN USA" tvg-logo="https://i.imgur.com/FbT8oqo.png" group-title="Deportes",D| TUDN USA
+#EXTINF:-1 tvg-id="univisiondeportes.us" tvg-name="TUDN USA" tvg-logo="https://i.imgur.com/FbT8oqo.png" group-title="Deportes",D| TUDN USA
 http://gzytv.vip:8880/654329/rjgAbmEB7c/1763
-#EXTINF:-1 tvg-id="tudn.mx" tvg-name="D| TUDN USA  HD" tvg-logo="https://i.imgur.com/FbT8oqo.png" group-title="Deportes",D| TUDN USA  HD
+#EXTINF:-1 tvg-id="tudn.mx" tvg-name="TUDN USA  HD" tvg-logo="https://i.imgur.com/FbT8oqo.png" group-title="Deportes",D| TUDN USA  HD
 http://gzytv.vip:8880/654329/rjgAbmEB7c/1762
-#EXTINF:-1 tvg-id="tudn.mx" tvg-name="D| TUDN USA FHD" tvg-logo="https://i.imgur.com/FbT8oqo.png" group-title="Deportes",D| TUDN USA FHD
+#EXTINF:-1 tvg-id="tudn.mx" tvg-name="TUDN USA FHD" tvg-logo="https://i.imgur.com/FbT8oqo.png" group-title="Deportes",D| TUDN USA FHD
 http://gzytv.vip:8880/654329/rjgAbmEB7c/1761
-#EXTINF:-1 tvg-id="nickelodeon.mx" tvg-name="I| Nickelodeon FHD" tvg-logo="https://i.imgur.com/8HPyijB.png" group-title="Infantil / Kids",I| Nickelodeon FHD
+#EXTINF:-1 tvg-id="nickelodeon.mx" tvg-name="Nickelodeon FHD" tvg-logo="https://i.imgur.com/8HPyijB.png" group-title="Infantil / Kids",I| Nickelodeon FHD
 http://gzytv.vip:8880/654329/rjgAbmEB7c/1097893
-#EXTINF:-1 tvg-id="tooncast.mx" tvg-name="I| Tooncast  HQ" tvg-logo="https://i.imgur.com/S9uC9Vi.png" group-title="Infantil / Kids",I| Tooncast  HQ
+#EXTINF:-1 tvg-id="tooncast.mx" tvg-name=" Tooncast  HQ" tvg-logo="https://i.imgur.com/S9uC9Vi.png" group-title="Infantil / Kids",I| Tooncast  HQ
 http://gzytv.vip:8880/654329/rjgAbmEB7c/1097896
 
 
-LIST
+		   domm
